@@ -1,0 +1,5 @@
+main
+main1.cpp
+run1.sh
+gpu/kernel/global/f_f_fcnn*
+.rough
